@@ -7,7 +7,7 @@ https://golang.org/doc/install
 
 ## Download, Compile, and Run
 ```
-$ cd $GOPATH/src
+$ cd $HOME/go/src
 $ git clone https://github.com/hkhamm/go-get-products
 $ cd go-get-products
 $ go get

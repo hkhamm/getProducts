@@ -1,8 +1,8 @@
 # Go Get Products: An Avant Go CLI Demo
 
-## Get Go
+## Gettting Started with GO
 ```
-https://golang.org/dl/
+https://golang.org/doc/install
 ```
 
 ## Download, Compile, and Run

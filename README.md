@@ -11,5 +11,5 @@ $ git clone https://github.com/hkhamm/go-get-products
 $ cd go-get-products
 $ go get
 $ go build
-$ ./ getProducts
+$ ./getProducts
 ```
